@@ -1,0 +1,30 @@
+.subject {
+  font-size: 50px;
+}
+
+.text {
+  font-size: 30px;
+}
+
+.comment {
+  padding: 0px 50px;
+  font-size: 20px;
+}
+
+.calc-form {
+  background: #fdd2f7;
+  padding: 10px 50px;
+}
+
+.box {
+  width: 150px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.calc-btn {
+  background: #a1a1a1;
+  width: 100px;
+  height: 50px;
+  font-size: 40px;
+}
